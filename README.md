@@ -78,3 +78,5 @@ gefunden werden oder in einem Shop gekauft werden in Austausch gegen eine Spielw
 Lebenssystem: Ist im aktuellen Zustand nicht notwendig. Um das Spiel zu vereinfachen oder wenn neue schwere Gegnerarten
 hinzugefügt werden, wäre ein Lebens-(Herzen)System praktisch.
 
+
+![Image](https://github.com/user-attachments/assets/8cffcd14-f50a-4dbc-bdeb-5dd020930c83)
